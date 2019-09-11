@@ -1,0 +1,86 @@
+﻿ TAS-test-v0.5.3（Text Anatomy Software）
+ 10 September 2019
+ ▪ 新增朴素贝叶斯调参功能
+ ▪ 优化了代码结构
+ ▪ 完善了调参相关模型缓存功能
+ 
+ 
+ TAS-test-v0.5.2（Text Anatomy Software）
+ 05 September 2019
+ ▪ 更改了词频统计中导出文本分割文件的数据格式
+ 
+ 
+ TAS-test-v0.5.1（Text Anatomy Software）
+ 04 September 2019
+ ▪ 更改了导出文件的名称及部分菜单名称
+ ▪ 优化了代码结构
+ ▪ 新增了卡方计算器功能
+ 
+ 
+ TAS-test-v0.5.0（Text Anatomy Software）
+ 02 September 2019
+ ▪ 词频统计新加功能：现在可以输出医患词频和医患分割文本了。
+ 
+ 
+ TAS-test-v0.4.9（Text Anatomy Software）
+ 27 August 2019
+ ▪ 词频统计页面重新布置
+ 
+ 
+ TAS-test-v0.4.8（Text Anatomy Software）
+ 26 August 2019
+ ▪ 新增“Adaptive Boosting”功能
+ 
+ 
+ TAS-test-v0.4.7（Text Anatomy Software）
+ 24 August 2019
+ ▪ 新增“Gradient Boosting Decision Tree”功能
+ ▪ 新增“eXtreme Gradient Boosting”功能
+ ▪ 新增“Random Forest”功能
+ 
+ 
+ TAS-test-v0.4.6（Text Anatomy Software）
+ 23 August 2019
+ ▪ 调整了Traditional Learning下各个算法的输出格式
+ ▪ 调整了LDA算法的输出格式
+ ▪ 修改了各个页面标题
+ ▪ 新增了版本号的同步规则
+ ▪ 新增了详细报错信息
+ ▪ 调整了菜单栏结构
+ 
+ 
+ TAS-test-v0.4.5（Text Anatomy Software）
+ 22 August 2019
+ ▪ 调整了菜单栏结构
+ ▪ 新增“模型调优”菜单
+ ▪ 更新了首页显示内容
+ ▪ 新增“Support Vector Machine”功能
+ ▪ 新增“Decision Tree”功能
+ ▪ 将“更新日志”下显示框更换为只读文本框
+ 
+ 
+ TAS-test-v0.4.4（Text Anatomy Software）
+ 21 August 2019
+ ▪ 调整了菜单栏的功能顺序及代码顺序
+ ▪ 新增“指定单词组颜色”生成词云高级功能
+ ▪ 对“指定单词组颜色”生成词云页面进行重新布置
+ 
+ 
+ TAS-test-v0.4.3（Text Anatomy Software）
+ 20 August 2019
+ ▪ 优化了代码结构
+ ▪ 新增“Logistic Regression”功能
+ ▪ 测试了win10 专业版系统的稳定性
+ 
+ 
+ TAS-test-v0.4.2（Text Anatomy Software）
+ 19 August 2019
+ ▪ 修复了各个模块的BUG
+ ▪ 测试了win10 1903系统的稳定性
+ 
+ 
+ TAS-test-v0.4.1（Text Anatomy Software）
+ 18 August 2019
+ ▪ 新增“更新日志”页面
+ ▪ 新增“指定单词组颜色”生成词云功能（高级功能尚未完善）
+ ▪ 更改了主页面尺寸
